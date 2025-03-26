@@ -1,5 +1,5 @@
-# Привет, это наша общая [работа](https://github.com/Sr123Saha/3_intensiv_3) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/>
-
+<h1 align="center"><summary style="font-size: 24px;">__Привет, это наша общая__ <a href="https://github.com/Sr123Saha/3_intensiv_3" target="_blank">работа</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></summary></h1>
 ## Кто выполняет работу:
 
 ### Серый Александр  
@@ -72,6 +72,7 @@
 - `train.xlsx` - данные для обучения
 - `test.xlsx` - тестовые данные
 - `зачет.pdf` - презентация проекта
+- `guide.txt` - мини руководство для программы
 
 ### Кто что делал
 - **Плахотник Анастасия**  
